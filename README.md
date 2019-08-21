@@ -3,7 +3,11 @@
 
 York University Advanced Data Science & Predictive Analytics team collaboration portal.
 
-Title: "Product Recommender for an Online Retailer" Subtitle: "A Simple, Item-Based Collaborative Filtering Recommender Applicaiton in R and R Shiny" Author: "Amitabh Kumar, Joseph Gyamfi, (Jamie) Yeon Ju Heo, and Rob Ness" Course name: "CSDA1040 Advanced Methods of Data Analysis" Date: "June 23, 2019"
+Title: "Product Recommender for an Online Retailer" 
+Subtitle: "A Simple, Item-Based Collaborative Filtering Recommender Applicaiton in R and R Shiny" 
+Author: "Amitabh Kumar, Joseph Gyamfi, (Jamie) Yeon Ju Heo, and Rob Ness" 
+Course name: "CSDA1040 Advanced Methods of Data Analysis" 
+Date: "June 23, 2019"
 
 Group D Shiny App link: https://jamieheo.shinyapps.io/shinyapps2/
 
